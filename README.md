@@ -15,13 +15,8 @@ Git • GitHub • Agile • Product Tools • Digital Technologies
 
 ## 🌱 Currently Learning
 
-* Programming fundamentals
 * AI tools and automation
 * Modern software development practices
-
-## 📊 GitHub Stats
-
-<!-- GitHub stats card goes here -->
 
 ## 📫 Connect With Me
 
