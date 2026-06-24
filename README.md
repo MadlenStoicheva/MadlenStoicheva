@@ -1,4 +1,4 @@
-# Hi, I'm Madlen Stoicheva 👋
+# Hi, I'm Madlen Stoycheva 👋
 
 ## 💫 About Me
 
