@@ -1,4 +1,37 @@
-## Hi there 👋
+# Hi, I'm Madlen Stoicheva 👋
+
+## 💫 About Me
+
+Passionate professional with experience in the tech industry and a strong interest in digital products, innovation, and continuous learning.
+
+* 🚀 Currently building my GitHub portfolio
+* 🌱 Always learning new technologies
+* 💡 Interested in software, AI, and product development
+* 🤝 Open to collaboration and networking
+
+## 🛠️ Skills & Tools
+
+Git • GitHub • Agile • Product Tools • Digital Technologies
+
+## 🌱 Currently Learning
+
+* Programming fundamentals
+* AI tools and automation
+* Modern software development practices
+
+## 📊 GitHub Stats
+
+<!-- GitHub stats card goes here -->
+
+## 📫 Connect With Me
+
+* LinkedIn: linkedin.com/in/madlen-stoicheva
+* GitHub: @MadlenStoicheva
+
+---
+
+⭐ Thanks for visiting my profile!
+
 
 <!--
 **MadlenStoicheva/MadlenStoicheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
